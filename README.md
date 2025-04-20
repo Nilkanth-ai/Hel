@@ -1,7 +1,4 @@
 
-# 📋 Sequence Diagram: Creating a New Note
-
-This diagram shows the series of events that occur when a user creates a new note on the page [`https://studies.cs.helsinki.fi/exampleapp/notes`](https://studies.cs.helsinki.fi/exampleapp/notes).
 
 ```mermaid
 sequenceDiagram
